@@ -1,1 +1,1 @@
-data structures with python
+list and tuples
